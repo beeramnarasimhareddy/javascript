@@ -18,7 +18,7 @@ for(i=1;i<=50;i++)
 
 let num =2;
 while (num <=20) {
-    if (num > 1) { // Prime numbers are greater than 1
+    if (num > 1) { 
         let isPrime = true;
         let i = 2;
         while (i * i <= num) {
